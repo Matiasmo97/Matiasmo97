@@ -3,7 +3,7 @@
 - 📫 How to reach me ... 
 
 Connect with me:
-https://www.linkedin.com/in/matias-montini-b7b845221/ matias montini
+https://www.linkedin.com/in/matias-montini-b7b845221/ jonathan montini
 
 🛠️Languages and Tools:
 Programing Language: JavaScript

@@ -19,18 +19,18 @@ Programing Language: JavaScript
 
 html5 css3 javascript react redux nodejs express postgresql jest mocha git postman heroku
 
-*Some of my projects:
+*Some of my projects:*
 
-*Cotizador de Criptomonedas "Cryto-App"
+*Cotizador de Criptomonedas "Cryto-App"*
 
 ![Captura de pantalla 2022-02-27 132039](https://user-images.githubusercontent.com/91911135/155891844-f326a021-6e66-4703-8fdd-a688ac1b121a.png)
 
-*"App-Weather"
+*"App-Weather"*
 
 ![Captura de pantalla 2022-02-27 131046](https://user-images.githubusercontent.com/91911135/155891896-52e41ec8-fc94-49ac-bb2e-5619b721f311.png)
 
 
-*Comming soon...
+*Comming soon...*
 
 Proyecto Individual('Henry') Countries
 

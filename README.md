@@ -13,16 +13,28 @@
 </p>
 
 <h3 align="left">🛠️Languages and Tools:</h3> 
+
 Programing Language: JavaScript 
+
 🔸Web Technology: HTML5, CSS3, NodeJS 
+
 🔸Database: PostgreSQL 
+
 🔸Framework/Library: ReactJS, Redux, Express 
+
 🔸Testing: Jest, Mocha 
+
 🔸Version Control: Git & GitHub 
+
 🔸API platform: Postman, Insomnia 
+
 🔸Platform deployments: Heroku, Vercel, Netlify 
+
 🔸Project Management: Slack 
+
 🔸Processes: Scrum
+
+
 
 
 

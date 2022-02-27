@@ -22,6 +22,7 @@ html5 css3 javascript react redux nodejs express postgresql jest mocha git postm
 Some of my projects:
 
 Cotizador de Criptomonedas "Cryto-App"
+
 ![Captura de pantalla 2022-02-27 132039](https://user-images.githubusercontent.com/91911135/155891844-f326a021-6e66-4703-8fdd-a688ac1b121a.png)
 
 "App-Weather"
